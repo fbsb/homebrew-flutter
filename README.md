@@ -2,9 +2,9 @@
 
 This repo provides a [Cask](https://github.com/Homebrew/homebrew-cask) for the v1.2.1 stable release of [flutter](https://flutter.io/)
 
-First you have to tap this repository: 
+First you have to tap this repository:
 ```
-brew tap fabsb/flutter
+brew tap fbsb/flutter
 ```
 
 Then install flutter:
@@ -20,5 +20,5 @@ flutter doctor
 To remove flutter and this tap:
 ```
 brew cask uninstall flutter
-brew untap fabsb/flutter
+brew untap fbsb/flutter
 ```
