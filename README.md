@@ -1,6 +1,6 @@
 # Homebrew cask for flutter
 
-This repo provides a [cask](https://github.com/Homebrew/homebrew-cask) for the v1.0.0 stable release of [flutter](https://flutter.io/)
+This repo provides a [Cask](https://github.com/Homebrew/homebrew-cask) for the v1.2.1 stable release of [flutter](https://flutter.io/)
 
 First you have to tap this repository: 
 ```
