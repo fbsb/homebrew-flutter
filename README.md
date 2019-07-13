@@ -5,7 +5,7 @@ This repo provides a [Cask](https://github.com/Homebrew/homebrew-cask) for the `
 First you have to tap this repository:
 
 ```
-brew tap fabsb/flutter
+brew tap fbsb/flutter
 ```
 
 Then install Flutter:
@@ -24,5 +24,5 @@ To remove Flutter and this tap:
 
 ```
 brew cask uninstall flutter
-brew untap fabsb/flutter
+brew untap fbsb/flutter
 ```
